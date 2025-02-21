@@ -38,3 +38,7 @@ SQL Server Management Studio (SSMS) for database management and querying.
 
 Power BI for data modeling, DAX calculations, and visualizations.
 
+Dashboard overview:
+![image](https://github.com/user-attachments/assets/23b4b0de-2868-4cc5-9c88-40c8e6f81171)
+
+![image](https://github.com/user-attachments/assets/1bda7503-1c24-43ca-9002-8b87c4107653)
