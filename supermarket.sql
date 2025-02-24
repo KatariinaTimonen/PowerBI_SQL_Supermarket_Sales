@@ -20,7 +20,7 @@ CREATE TABLE supermarket_sales(
 
 
 BULK INSERT supermarket_sales
-FROM 'C:\Users\Documents\business modelling\SQL_supermarket/supermarket_sales - Sheet1.csv'
+FROM 'C:\Users\Documents\business_modelling\SQL_supermarket/supermarket_sales_Sheet1.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '0x0A',
